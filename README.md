@@ -53,3 +53,6 @@ Things I'm coding with:
 
 ![Kane Blueriver's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxxoling&show_icons=true&theme=tokyonight)
 
+Listen to my heartbeat:
+
+![heartbeat](https://raw.githubusercontent.com/kxxoling/iBeats/main/files/heart.svg)
